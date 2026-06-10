@@ -44,8 +44,10 @@ chosen partition: 7
 
 ## Actual Result
 
-Filled in at execution time.
+1. underlines of username/password fields turn red
+2. red circles with white x appear next to username/password fields
+3. error view appears with white x in top right, with message "Epic sadface: Username is required"
 
 ## Status
 
-not run / pass / fail / blocked
+pass

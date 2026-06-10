@@ -52,8 +52,8 @@ Application logs in and shows Swag Labs Products page
 
 ## Actual Result
 
-Filled in at execution time.
+Application logs in and shows Swag Labs Products page
 
 ## Status
 
-not run / pass / fail / blocked
+pass

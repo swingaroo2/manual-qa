@@ -48,8 +48,10 @@ chosen partition: 2
 
 ## Actual Result
 
-Filled in at execution time.
+1. underlines of username/password fields turn red
+2. red circles with white x appear next to username/password fields
+3. error view appears with white x in top right, with message "Epic sadface: Username and password do not match any user in this service"
 
 ## Status
 
-not run / pass / fail / blocked
+pass
