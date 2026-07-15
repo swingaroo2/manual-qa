@@ -10,6 +10,10 @@
 
 State that must be true before the test runs.
 
+## Test Technique-Specific Artifacts
+
+State tables, partitions, or other artifacts that support the chosen test technique.
+
 ## Test Data
 
 Inputs and any accounts, files, or fixtures needed.
